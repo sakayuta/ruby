@@ -1,2 +1,2 @@
 puts'Hello, World'
-puts'BI = ビスネスインテリジェンス'
+puts'BI = ビジネスインテリジェンス'

@@ -5,12 +5,12 @@ def fizz_buzz(number)
     "Fizz"
   elsif number % 5 == 0
     "Buzz"
-  else 
+  else
     number.to_s
   end
 end
 
-puts "数字を入力してください"
+puts "数字を入力してください！"
 
 input = gets.to_i
 

@@ -1,4 +1,4 @@
 puts'Hello, World'
 puts'BI = ビジネスインテリジェンス'
 puts'Hello,Hello'
-puts'javaカリキュラム'
+puts'Javaカリキュラム'

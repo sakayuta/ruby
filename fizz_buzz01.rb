@@ -1,7 +1,7 @@
 def fizz_buzz(number)
-  if number % 30 == 0
+  if number % 20 == 0
     "FizzBuzz"
-  elsif number % 6 == 0
+  elsif number % 4 == 0
     "Fizz"
   elsif number % 5 == 0
     "Buzz"
